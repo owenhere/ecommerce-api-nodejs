@@ -73,21 +73,3 @@ npm run dev
 ## Activities
 
 ![Alt](https://repobeats.axiom.co/api/embed/f958e8d373d422293e33c9fb24257cfd2c8dfc24.svg "Repobeats analytics image")
-
-## Connect With Me
-
-[![Instagram: nixrajput](https://img.shields.io/badge/nixrajput-141430?logo=Instagram&logoColor=fff)][instagram]
-[![Linkedin: nixrajput](https://img.shields.io/badge/nixrajput-141430?logo=Linkedin&logoColor=fff)][linkedin]
-[![GitHub: nixrajput](https://img.shields.io/badge/nixrajput-141430?logo=Github&logoColor=fff)][github]
-[![Twitter: nixrajput07](https://img.shields.io/badge/nixrajput07-141430?logo=Twitter&logoColor=fff)][twitter]
-[![Facebook: nixrajput07](https://img.shields.io/badge/nixrajput07-141430?logo=Facebook&logoColor=fff)][facebook]
-
-[github]: https://github.com/nixrajput
-[facebook]: https://facebook.com/nixrajput07
-[twitter]: https://twitter.com/nixrajput07
-[instagram]: https://instagram.com/nixrajput
-[linkedin]: https://linkedin.com/in/nixrajput
-[repo]: https://github.com/nixrajput/ecommerce-api-nodejs
-[issues]: https://github.com/nixrajput/ecommerce-api-nodejs/issues
-[pulls]: https://github.com/nixrajput/ecommerce-api-nodejs/pulls
-[license]: https://github.com/nixrajput/ecommerce-api-nodejs/blob/master/LICENSE.md
